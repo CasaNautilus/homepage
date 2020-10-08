@@ -275,6 +275,19 @@
     text-decoration-color: skyblue;
 }
 
+#item-6 {
+
+    margin-top: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    margin-bottom: 30px;
+
+}
+
 .comment {
 
     font-size: 28px;
@@ -291,6 +304,13 @@
     text-align: center;
 
     margin-top: 15px;
+}
+
+.adress {
+
+    font-size: 20px;
+
+    text-align: center;
 }
 
 .email {
