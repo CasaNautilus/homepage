@@ -154,12 +154,14 @@
 
     text-align: center;
 
+    position: relative;
 }
 
 .video {
 
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
 
 }
 
