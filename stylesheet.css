@@ -147,6 +147,15 @@
 
 }
 
+.goto-infomation {
+
+    font-size: 1.2vmax;
+    font-weight: bold;
+
+    position: center;
+}
+
+
 .concept-movie {
     
     margin-top: 70px;
